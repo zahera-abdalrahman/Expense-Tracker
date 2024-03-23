@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gcdQiuqfHKAqd3+fOhBmJ46QlW6dsyADR3BBtymPPCk=",
+  "Hash": "B6ZsQf6ygCIwijDiFvVq6XklbfnwzDvFlGWz9VTDT38=",
   "Source": "Expense Tracker",
   "BasePath": "_content/Expense Tracker",
   "Mode": "Default",
@@ -1105,6 +1105,40 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "F:\\Asp.net Projects New\\Asp.net projects\\Expense Tracker\\Expense-Tracker\\Expense Tracker\\Expense Tracker\\wwwroot\\favicon-16x16.png",
+      "SourceId": "Expense Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Asp.net Projects New\\Asp.net projects\\Expense Tracker\\Expense-Tracker\\Expense Tracker\\Expense Tracker\\wwwroot\\",
+      "BasePath": "_content/Expense Tracker",
+      "RelativePath": "favicon-16x16.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon-16x16.png"
+    },
+    {
+      "Identity": "F:\\Asp.net Projects New\\Asp.net projects\\Expense Tracker\\Expense-Tracker\\Expense Tracker\\Expense Tracker\\wwwroot\\favicon-32x32.png",
+      "SourceId": "Expense Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Asp.net Projects New\\Asp.net projects\\Expense Tracker\\Expense-Tracker\\Expense Tracker\\Expense Tracker\\wwwroot\\",
+      "BasePath": "_content/Expense Tracker",
+      "RelativePath": "favicon-32x32.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon-32x32.png"
+    },
+    {
       "Identity": "F:\\Asp.net Projects New\\Asp.net projects\\Expense Tracker\\Expense-Tracker\\Expense Tracker\\Expense Tracker\\wwwroot\\js\\site.js",
       "SourceId": "Expense Tracker",
       "SourceType": "Discovered",
@@ -2089,6 +2123,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "F:\\Asp.net Projects New\\Asp.net projects\\Expense Tracker\\Expense-Tracker\\Expense Tracker\\Expense Tracker\\wwwroot\\logo.png",
+      "SourceId": "Expense Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Asp.net Projects New\\Asp.net projects\\Expense Tracker\\Expense-Tracker\\Expense Tracker\\Expense Tracker\\wwwroot\\",
+      "BasePath": "_content/Expense Tracker",
+      "RelativePath": "logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo.png"
+    },
+    {
+      "Identity": "F:\\Asp.net Projects New\\Asp.net projects\\Expense Tracker\\Expense-Tracker\\Expense Tracker\\Expense Tracker\\wwwroot\\profile.jpg",
+      "SourceId": "Expense Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Asp.net Projects New\\Asp.net projects\\Expense Tracker\\Expense-Tracker\\Expense Tracker\\Expense Tracker\\wwwroot\\",
+      "BasePath": "_content/Expense Tracker",
+      "RelativePath": "profile.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile.jpg"
     }
   ]
 }
